@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="lblsize">24dp</dimen>
+    <dimen name="textsize">34dp</dimen>
+    <dimen name="btnTextSize">34dp</dimen>
+    <dimen name="btnHeight">180dp</dimen>
+    <dimen name="btnWeight">180dp</dimen>
+    <dimen name="btnRadius">20dp</dimen>
+    <dimen name="topicize">48dp</dimen>
+    <dimen name="AnswerSize">60dp</dimen>
+    <dimen name="backbtnradius">20dp</dimen>
+    <dimen name="backradius">10dp</dimen>
+</resources>
